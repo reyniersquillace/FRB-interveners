@@ -10,6 +10,6 @@ Dependencies:
 <li><a href="https://github.com/realfastvla/psquery">psquery</a></li>
 <li>fsps</li>
 <li>sedpy</li>
-<li>prospect</li>
+<li><a href="https://github.com/bd-j/prospector">prospect</a></li>
 <li>emcee</li>
 <li>dynesty</li>
