@@ -6,8 +6,8 @@ Dependencies:
 <li>astropy</li>
 <li>scipy</li>
 <li>photutils</li>
-<li>mastcasjobs</li>
-<li>psquery</li>
+<li>mastcasjobs: <code>pip install git+https://github.com/rlwastro/mastcasjobs@master</code></li>
+<li><a href="https://github.com/realfastvla/psquery">psquery</a></li>
 <li>fsps</li>
 <li>sedpy</li>
 <li>prospect</li>
